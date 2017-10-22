@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\330219b1e0992ef00c456e0a15510bb7839d1988\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_90c78412ca7ff3b91b59893173097217adbbd3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\a60e60ff6dbca15429ddc2da10fcd759fd5d135f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_7997ada8e67fc5e9d0dd6d0e12067d5e4c4c6662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_0e00b0807ca9209a6b52229636ed130409534a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\1062177fbbc51dd346b0302c8729c14e0cfe2a21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_4f3e17ae4e3872eb21f3fea7feff9daaf722970d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\b4b2585acf22b9e008f06a053215e67042b2fa92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_b7cca7d55cc69e4a0b27c26fc35ce4ea35a9b1b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\94cd0919f6008a6dd795978e7f04fd0f9718ac7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_eaf6e9075c73ebfbe44490a2dd33605787800cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_f96781c9964c623c3b84b235b7fcfe52869ef408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_5ab96e9890f8fbc114e5a89f05a7971665d9cfdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\58a6abe4ad7c35cf058effb04fe9f2772e596616\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_be76393ef18f7979dfdb1533eedb71c28b955a80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\50e431a29b7fa637d4171c2b464c883220997918\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_16a04b1e555e88bba7fa1bad4006c239624e7ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\4a6732cb4b990e953b2de9cd8d618019a2923721\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_11b9fbacaa8eedb941f4e74a92f432ded6ece3b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Equipo04\.android\build-cache\db775c85375c0be0b398ea0f1de04c67865db609\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Equipo04\Documents\Agenda\Contaxts\app\build\intermediates\pre-dexed\debug\classes_d9ec37b8ecb280b03000c40a497c0db55afb3236.jar" />
+    </item>
+
+</items>

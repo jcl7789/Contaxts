@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBack"
+    android:textColor="@color/colorTextPrimaryDark"
+    tools:context="app.jcl.contaxts.MainActivity"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No soy solo una aplicación de contactos mas"
+        android:padding="5dip"
+        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+        android:textAlignment="center"
+        android:textColor="@color/colorTextPrimary"
+    />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="¿Que tal tu día?"
+        android:padding="5dip"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textAlignment="center"
+        android:textColor="@color/colorTextPrimary"
+    />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="@android:dimen/dialog_min_width_minor"
+        android:layout_weight="0.1" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Agregar"
+        android:id="@+id/buttonAgregar"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:backgroundTint="@color/colorAccent"
+
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Listar"
+        android:id="@+id/buttonListar"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:backgroundTint="@color/colorAccent"
+        android:textColor="@color/colorText2"
+        />
+
+
+</LinearLayout>
