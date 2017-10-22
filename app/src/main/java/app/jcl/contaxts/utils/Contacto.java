@@ -1,7 +1,7 @@
 package app.jcl.contaxts.utils;
 
 /**
- * Created by Juan Carlos Leto on 17/10/2017.
+ * Juan Carlos Leto on 17/10/2017.
  */
 
 public class Contacto {
@@ -16,7 +16,7 @@ public class Contacto {
         this.nombre = nombre;
         this.apellido = apellido;
         this.mail = mail;
-        this.telefono = telefono;
+        this.telefono = new Telefono(Integer.parseInt(telefono)).normalizado();
     }
 
     public Contacto() {

@@ -33,7 +33,7 @@
     />
     <Space
         android:layout_width="match_parent"
-        android:layout_height="@android:dimen/dialog_min_width_minor"
+        android:layout_height="0dp"
         android:layout_weight="0.1" />
 
     <Button
@@ -43,6 +43,7 @@
         android:text="Agregar"
         android:id="@+id/buttonAgregar"
         style="@style/Widget.AppCompat.Button.Colored"
+        android:onClick="lanzarAgregarContacto"
         android:backgroundTint="@color/colorAccent"
 
 
@@ -56,6 +57,7 @@
         style="@style/Widget.AppCompat.Button.Colored"
         android:backgroundTint="@color/colorAccent"
         android:textColor="@color/colorText2"
+        android:onClick="lanzarListarContactos"
         />
 
 

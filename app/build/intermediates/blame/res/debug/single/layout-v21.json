@@ -1,31 +1,35 @@
 [
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "/home/usuario/agenda-android/Contaxts/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
         "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/usuario/agenda-android/Contaxts/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/usuario/agenda-android/Contaxts/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
@@ -36,15 +40,11 @@
         "source": "/home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
         "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

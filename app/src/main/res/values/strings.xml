@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Contaxts</string>
+    <string name="borrar_bd">Vaciar BDD</string>
 </resources>

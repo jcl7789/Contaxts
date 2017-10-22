@@ -4,28 +4,28 @@
         "source": "/home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_media_action.xml"
-    },
-    {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
         "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
         "merged": "/home/usuario/agenda-android/Contaxts/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
         "source": "/home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
         "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
         "merged": "/home/usuario/agenda-android/Contaxts/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
@@ -36,8 +36,8 @@
         "source": "/home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/res/layout-v11/notification_media_action.xml"
     },
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
@@ -48,24 +48,24 @@
         "source": "/home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
         "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
         "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
         "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
         "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\.android\\build-cache\\42b5f1b0639da558eae2b3fb7ad27ba1bc3973a1\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/usuario/agenda-android/Contaxts/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",

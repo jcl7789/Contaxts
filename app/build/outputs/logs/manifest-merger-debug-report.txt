@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:3:5-31
 		INJECTED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml
@@ -13,8 +13,12 @@ ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xm
 	android:versionCode
 		INJECTED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml
 		INJECTED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:5:22-66
 application
-ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:6:5-20:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/usuario/.android/build-cache/f117230b2a3a1445d526d994e633f485f4b004ed/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/usuario/.android/build-cache/9a36f650c16b2759ea9108bcd74637c1cb6468a4/output/AndroidManifest.xml:29:5-20
@@ -26,31 +30,35 @@ MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/us
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/usuario/.android/build-cache/e45c0af4b79cf4dfa92fc2c39826a20d0c3eb03e/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/usuario/.android/build-cache/3cfa91af1b7f2702ddb127cf6ded365fd0d6c89f/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:11:9-35
 	android:roundIcon
-		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:10:9-54
 	android:allowBackup
-		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:8:9-43
 	android:theme
-		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:12:9-40
 activity#app.jcl.contaxts.MainActivity
-ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:12:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:13:13-17:29
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.LAUNCHER
+ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:15:25-66
+action#android.intent.action.VIEW
+ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /home/usuario/agenda-android/Contaxts/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/usuario/.android/build-cache/e061e0cbc347fa2fa359cbd17c45b5718d32c187/output/AndroidManifest.xml:21:5-23:78
