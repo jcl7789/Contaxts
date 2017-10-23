@@ -4,7 +4,7 @@ package app.jcl.contaxts.utils;
  * Created by usuario on 22/10/17.
  */
 
-class Telefono {
+public class Telefono {
     private int telefono;
     private int cod_area;
     private int cod_pais;

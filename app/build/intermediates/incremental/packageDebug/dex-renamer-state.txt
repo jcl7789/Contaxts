@@ -1,4 +1,4 @@
-#Sun Oct 22 20:25:28 ART 2017
+#Sun Oct 22 21:01:17 ART 2017
 base.0=/home/usuario/agenda-android/Contaxts/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7c8561e0191fe383b4bd714bc30ca356d54d781b
 renamed.1=classes.dex
 renamed.0=classes2.dex

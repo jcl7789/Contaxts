@@ -1,26 +1,10 @@
 [
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "/home/usuario/agenda-android/Contaxts/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
         "source": "/home/usuario/agenda-android/Contaxts/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "/home/usuario/agenda-android/Contaxts/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/home/usuario/agenda-android/Contaxts/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
-        "source": "/home/usuario/agenda-android/Contaxts/C:\\Users\\Equipo04\\Documents\\Agenda\\Contaxts\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     }
 ]

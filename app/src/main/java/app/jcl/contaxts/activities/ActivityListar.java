@@ -31,12 +31,8 @@ public class ActivityListar extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_listar);
         ColorDrawable colorDrawable = new ColorDrawable(Color.parseColor("#00A8C1"));
-        try {
-            this.getSupportActionBar().setBackgroundDrawable(colorDrawable);
-        }
-        catch (NullPointerException e){
-            this.getActionBar().setBackgroundDrawable(colorDrawable); //getSupportActionBar().setBackgroundDrawable(colorDrawable);
-        }
+        this.getSupportActionBar().setBackgroundDrawable(colorDrawable);
+
 
         listViewListadoDeContactos = (ListView) findViewById(R.id.lvContactos);
 

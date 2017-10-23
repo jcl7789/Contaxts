@@ -16,7 +16,7 @@ public class Contacto {
         this.nombre = nombre;
         this.apellido = apellido;
         this.mail = mail;
-        this.telefono = new Telefono(Integer.parseInt(telefono)).normalizado();
+        this.telefono = telefono;
     }
 
     public Contacto() {

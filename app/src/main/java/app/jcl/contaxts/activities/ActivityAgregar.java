@@ -27,12 +27,7 @@ public class ActivityAgregar extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_agregar);
         ColorDrawable colorDrawable = new ColorDrawable(Color.parseColor("#00A8C1"));
-        try {
-            this.getSupportActionBar().setBackgroundDrawable(colorDrawable);
-        }
-        catch (NullPointerException e){
-            this.getActionBar().setBackgroundDrawable(colorDrawable); //getSupportActionBar().setBackgroundDrawable(colorDrawable);
-        }
+        this.getSupportActionBar().setBackgroundDrawable(colorDrawable);
 
         tvTextoNom = (TextView) findViewById(R.id.tfNombre);
         tvTextoApe = (TextView) findViewById(R.id.tfApellido);

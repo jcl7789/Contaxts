@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorBack"
+    android:orientation="vertical"
     android:textColor="@color/colorTextPrimaryDark"
-    tools:context="app.jcl.contaxts.MainActivity"
     android:weightSum="1">
 
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="No soy solo una aplicación de contactos mas"
         android:padding="5dip"
-        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+        android:text="No soy solo una aplicación de contactos mas"
         android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
         android:textColor="@color/colorTextPrimary"
     />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="¿Que tal tu día?"
         android:padding="5dip"
-        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:text="¿Que tal tu día?"
         android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="@color/colorTextPrimary"
     />
     <Space
@@ -37,27 +34,27 @@
         android:layout_weight="0.1" />
 
     <Button
+        android:id="@+id/buttonAgregar"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Agregar"
-        android:id="@+id/buttonAgregar"
-        style="@style/Widget.AppCompat.Button.Colored"
-        android:onClick="lanzarAgregarContacto"
         android:backgroundTint="@color/colorAccent"
+        android:onClick="lanzarAgregarContacto"
+        android:text="Agregar"
 
 
         />
     <Button
+        android:id="@+id/buttonListar"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Listar"
-        android:id="@+id/buttonListar"
-        style="@style/Widget.AppCompat.Button.Colored"
         android:backgroundTint="@color/colorAccent"
-        android:textColor="@color/colorText2"
         android:onClick="lanzarListarContactos"
+        android:text="Listar"
+        android:textColor="@color/colorText2"
         />
 
 
